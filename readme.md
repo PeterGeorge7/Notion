@@ -24,3 +24,39 @@ Welcome to the world of Data Structures and Algorithms with Java! 🚀 In this c
 - [Java Documentation](https://docs.oracle.com/en/java/)
 - [GeeksforGeeks - Java Programming Language](https://www.geeksforgeeks.org/java-programming-language/)
 - [LeetCode - Java Solutions](https://leetcode.com/problemset/all/?search=java)
+
+### 2. [Introduction To Relational Databases](https://imported-share-07d.notion.site/Introduction-to-Relational-Databases-3991f0e60cd444eba814d4630fb3e871?pvs=4)
+
+**Description:**
+Dive into the world of relational databases and SQL with our comprehensive course! 🎓 In this journey, we'll explore the fundamentals of databases, understand the principles of relational database management systems (RDBMS), and master the art of querying data using SQL.
+
+**Course Highlights:**
+- **Introduction to Databases:** Learn the basics of databases, their importance, and the role they play in software development.
+- **Relational Database Concepts:** Understand the principles of relational databases, tables, relationships, and normalization.
+- **SQL Essentials:** Master the SQL language, covering topics such as SELECT statements, filtering data, joins, subqueries, and more.
+- **Database Design Best Practices:** Explore best practices for designing efficient and scalable databases.
+- **Indexing and Optimization:** Learn about indexing strategies and performance optimization techniques.
+- **Transactions and ACID Properties:** Understand the concepts of transactions and the ACID properties that ensure database reliability.
+- **Real-world Projects:** Apply your knowledge to real-world projects and scenarios.
+
+**Notion Template:**
+- [Relational Database Fundamentals with SQL](https://imported-share-07d.notion.site/Introduction-to-Relational-Databases-3991f0e60cd444eba814d4630fb3e871?pvs=4)
+
+**Resources:**
+- [W3Schools - SQL Tutorial](https://www.w3schools.com/sql/)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [MySQL Documentation](https://dev.mysql.com/doc/)
+
+### 3. [Numerical](https://imported-share-07d.notion.site/6226010d90b34c9fb31cb030c9931b2b?v=ec34fe5fecfc48fabeacd9e2a502ec3e&pvs=4)
+
+**Description:**
+
+
+**Course Highlights:**
+
+
+**Notion Template:**
+- [Relational Database Fundamentals with SQL](https://imported-share-07d.notion.site/6226010d90b34c9fb31cb030c9931b2b?v=ec34fe5fecfc48fabeacd9e2a502ec3e&pvs=4)
+
+**Resources:**
+
